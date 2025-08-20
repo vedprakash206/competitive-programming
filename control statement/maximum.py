@@ -10,3 +10,4 @@ elif(num3>num1)and(num3>num2):
 else:
     print("all numbers are equal",num1,num2,num3);
     
+
